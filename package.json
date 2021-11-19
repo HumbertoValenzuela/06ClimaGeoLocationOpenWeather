@@ -1,0 +1,21 @@
+{
+  "name": "06climageolocationopenweather",
+  "version": "1.0.0",
+  "description": "Clima Google Open Weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Clima",
+    "Google",
+    "Open",
+    "Weather"
+  ],
+  "author": "Humberto Valenzuela",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "yargs": "^17.2.1"
+  }
+}
